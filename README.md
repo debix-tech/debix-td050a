@@ -25,7 +25,7 @@ RoHS
 
 ## Specification:
 | DEBIX TD050A |  |
-|--------------|--|
+|:--------------|--|
 | LCD Size     | 5 inch (Diagonal) |
 | Driver Element | a-Si TFT action matrix |
 | Resolution   | 800 x 480 |
