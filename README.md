@@ -42,6 +42,16 @@ RoHS
 | Net Weight  | 96g (±0.5g) |
 | Gross Weight | 228g (±0.5g) |
 
+
+## Mechanical Dimension:
+<img src="./Media_Assets/MD.png" alt="MD" width=auto height=auto align="center">
+
+## LVDS Interface Pinout:
+<img src="./Media_Assets/Pinout.png" alt="Pinout" width=auto height=auto align="center">
+
+Note: I/O definition:    
+I: input, O: output, P: Power, -: No Connection
+
 <br>
 
 ## Contact Us
